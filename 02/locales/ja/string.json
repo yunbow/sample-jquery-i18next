@@ -1,0 +1,12 @@
+{
+    "label": {
+        "label1": "作成する",
+        "label2": "読み込む1<br>読み込む2"
+    },
+    "title": {
+        "title1": "更新する"
+    },
+    "placeholder": {
+        "placeholder1": "削除する"
+    }
+}

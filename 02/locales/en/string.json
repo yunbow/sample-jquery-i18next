@@ -1,0 +1,12 @@
+{
+    "label": {
+        "label1": "create",
+        "label2": "read1<br>read2"
+    },
+    "title": {
+        "title1": "update"
+    },
+    "placeholder": {
+        "placeholder1": "delete"
+    }
+}
